@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center"> 免责声明 </h1>
 
 
@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-
+      
 
 # v2ray 部署在 openshift starter
 鉴于转载网友太多，甚至还发到了国内网站上宣传，为避免不必要麻烦，docker镜像已经删除，需要的请自行fork本
@@ -26,3 +26,4 @@
 
 youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
+   
